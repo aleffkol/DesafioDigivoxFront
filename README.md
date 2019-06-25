@@ -1,29 +1,25 @@
-# front-end
+# Gerenciador de alugueis de livros
 
-## Project setup
-```
-npm install
-```
+## Tecnologias utilizadas
+...
+- Vue Js
+- Vue Router
+- Axios js
+...
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Instalação Vue js
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+- Pré-requisitos
+    - node
+    - npm
+- Comando para instalação
+    - npm install vue
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Como rodar a aplicação front-end
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+- Dentro do diretório "DesafioDigivoxFront" use o comando: npm install
+- Logo em seguida rode o comando: npm run serve
+```
