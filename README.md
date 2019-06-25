@@ -1,11 +1,11 @@
 # Gerenciador de alugueis de livros
 
 ## Tecnologias utilizadas
-...
+```
 - Vue Js
 - Vue Router
 - Axios js
-...
+```
 
 ## Instalação Vue js
 
